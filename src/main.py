@@ -1,5 +1,3 @@
-"""Run the experiment with mouse or Tobii gaze input."""
-
 from abc import ABC, abstractmethod
 from collections import deque
 from datetime import datetime
