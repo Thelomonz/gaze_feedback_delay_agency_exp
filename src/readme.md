@@ -1,8 +1,3 @@
-# 本プロジェクトは、以下のプロジェクトを基に改変したものです
-https://github.com/acercyc/soa_eye_tracking_exp  
-原作者：acercyc  
-Modified for a sense of agency eye-tracking experiment.
-
 # 視線追従・制御感評価実験
 
 PsychoPy と Tobii アイトラッカーを使用し、視線に追従する画像刺激の遅延が主観的な制御感に与える影響を測定する実験プログラムです。Tobii を接続していない環境では、マウスを使って表示や操作を確認できます。
