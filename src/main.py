@@ -54,11 +54,11 @@ config = {
     "experiment": {
         "fullscreen": True,
         "show_pos_indicator": False,  # 視点位置の表示
-        "screen_margin": 0.02,  # 画面端から刺激までの最小余白（height単位）
+        "screen_margin": 0.02,  # 画面端から刺激までの最小余白（height）
         "background_color": (100, 100, 100),  # ウィンドウの背景色（RGB: 0～255）
         "calibration_intro_duration": 2,  # キャリブレーション案内の表示時間（秒）
         "experiment_start_delay": 2,  # 実験開始前の待機時間（秒）
-        "pos_indicator_radius": 0.005,  # 位置インジケーターの半径（height単位）
+        "pos_indicator_radius": 0.005,  # 位置インジケーターの半径（height）
         "pos_indicator_color": "red",  # 位置インジケーターの色
         "pos_indicator_opacity": 0.7,  # 位置インジケーターの不透明度（0～1）
     },
