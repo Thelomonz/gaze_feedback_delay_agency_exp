@@ -1,0 +1,25 @@
+# 視線フィードバック遅延と運動主体感の実験 - 必要パッケージ
+# 視線追跡実験および関連ユーティリティで使用する依存パッケージ
+
+# PsychoPy - 心理学実験用の主要フレームワーク
+psychopy>=2023.1.0
+
+# 視線追跡
+tobii-research>=1.11.0
+
+# 科学技術計算
+numpy>=1.21.0
+
+# GMM 視線安定化（DisplaceGmmStabilizer）
+scikit-learn>=1.0.0
+
+# psychopy_tobii_controller のキャリブレーション画像処理
+Pillow>=8.0.0
+
+# 注意事項：
+# 1. psychopy_tobii_controller は、ローカルパッケージとして src/ に同梱されています。
+# 2. GazeStabilizer.py は、src/ に含まれるローカルモジュールです。
+# 3. threading、time、os、json、datetime、abc などの標準ライブラリは、
+#    個別にインストールする必要はありません。
+# 4. Windows では、使用する Tobii アイトラッカーに対応したドライバーを
+#    別途インストールする必要があります。
