@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: psychopy_tobii_controller
+Version: 1.2.0
+Summary: Tobii Controller for PsychoPy
+Home-page: https://github.com/hsogo/psychopy_tobii_controller/
+Author: Hiroyuki Sogo
+Author-email: hsogo12600@gmail.com
+License: GNU GPL
+Keywords: Tobii,PsychoPy,Eye tracking
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary
+
+
+psychopy_tobii_controller is a helper module to use tobii_research package from PsychoPy.
+
+Disclaimer: psychopy_tobii_controller is unofficial. It is NOT affiliated with Tobii.
