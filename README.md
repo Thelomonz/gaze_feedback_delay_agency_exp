@@ -1,0 +1,2 @@
+# gaze_feedback_delay_agency_exp
+PsychoPyを用いた視線制御課題により、フィードバック遅延が運動主体感判断に与える影響を検討する実験プログラム。
