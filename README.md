@@ -6,11 +6,10 @@
 
 本プロジェクトは、以下のプロジェクトを基に改変したものです。
 
-原プロジェクト: https://github.com/acercyc/soa_eye_tracking_exp
+原プロジェクト:[acercyc/soa_eye_tracking_exp](https://github.com/acercyc/soa_eye_tracking_exp)
+原作者:[acercyc](https://github.com/acercyc)
 
-原作者: acercyc
-
-本研究の運動主体感に関する眼球運動実験に合わせて、一部の実験条件、刺激制御、データ記録・分析処理を改変しています。
+本研究の運動主体感に関する視線追跡実験に合わせて、実験条件、刺激制御、およびデータ記録処理を変更しています。
 
 ## Overview
 
