@@ -1,4 +1,4 @@
-# 本プロジェクトは、以下のプロジェクトを基に改変したものです。  
+# 本プロジェクトは、以下のプロジェクトを基に改変したものです
 https://github.com/acercyc/soa_eye_tracking_exp  
 原作者：acercyc  
 Modified for a sense of agency eye-tracking experiment.
